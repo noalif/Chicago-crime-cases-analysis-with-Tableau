@@ -36,7 +36,7 @@ The output should be the columns: year, month, pct_chg
 ### b. Choose one question, explore it, and visualize it.
 
 *   Chosen question - In which community areas/streets is it recommended to have police patrols to prevent sexual violence?
-*   explore section in "chicago crime analysis.py"
+*   explore section in colab link: https://colab.research.google.com/drive/1BtSORyqJ8OD6yo83VYBnPRN_b3-lTEQ2?usp=sharing
 *   visualization with tableau:
 
 ![image](https://github.com/noalif/Chicago-crime-cases-analysis-with-Tableau/assets/113893406/cdf0e799-00be-47df-863d-69aaf5f4aa53)
