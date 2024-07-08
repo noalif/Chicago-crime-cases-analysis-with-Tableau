@@ -10,7 +10,7 @@ Choose the chicago_crime --> crime, from:
 
 ### Questions:
 
-##### Part 1- SQL
+### Part 1- SQL
 (No need to attach the query result, only your SQL query)
 Write a SQL query to calculate the month-over-month percentage change in the total number of
 reported “Robbery” (primary_type) crimes in Chicago for the years 2018 to 2020.
@@ -20,8 +20,8 @@ The output should be the columns: year, month, pct_chg
 ![image](https://github.com/noalif/Chicago-crime-cases-analysis-with-Tableau/assets/113893406/a584ed78-4b8a-4d25-b030-9e35a5cf17fc)
 
 
-##### Part 2- Python and SQL
-Freestyle-
+### Part 2- Python and SQL
+
 ### a. Think about questions you would try to answer using the Chicago Crime dataset.
 
 1.   In the educational institutions of which Community Area is it highly recommended to deliver lesson plans on violence and protection, sex education, personal boundaries, etc..?
@@ -41,7 +41,7 @@ Freestyle-
 
 ![image](https://github.com/noalif/Chicago-crime-cases-analysis-with-Tableau/assets/113893406/cdf0e799-00be-47df-863d-69aaf5f4aa53)
 
-### link to Tableau dashboard:
+### link to Tableau dashboard (interactive version):
 https://public.tableau.com/app/profile/.noa.lifshitz./viz/ChicagoSexualCrimeCases-NoaLifshitzPlus500/Dashboard3?publish=yes
 
 
