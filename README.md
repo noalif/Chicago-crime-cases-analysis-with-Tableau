@@ -17,7 +17,8 @@ reported “Robbery” (primary_type) crimes in Chicago for the years 2018 to 20
 The output should be the columns: year, month, pct_chg
 
 #### Answer:
-![image](https://github.com/noalif/Chicago-crime-cases-analysis-with-Tableau/assets/113893406/a584ed78-4b8a-4d25-b030-9e35a5cf17fc)
+![image](https://github.com/user-attachments/assets/c9b47b13-8a76-4e75-b975-fc244268de4e)
+
 
 
 ### Part 2- Python and SQL
